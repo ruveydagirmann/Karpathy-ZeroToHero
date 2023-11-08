@@ -1,1 +1,1 @@
-# Karpathy-ZeroToHero
+# Karpathy-Neural Networks
